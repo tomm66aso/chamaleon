@@ -2,10 +2,12 @@
 
 ## Deploy
 1. Push su GitHub
-2. Importa su vercel.com → New Project → Deploy
+2. Importa su vercel.com → Deploy
 
-## Post-deploy
-- Aggiorna dominio reale in sitemap.xml e canonical (index.html)
-- Aggiungi og-image.png (1200x630px)
-- Google Search Console → invia sitemap
-- Google Business Profile → fondamentale per SEO locale
+## Da fare dopo il deploy
+- [ ] Sostituire chameleon.dev con dominio reale in sitemap.xml e canonical
+- [ ] Registrarsi su formspree.io → copiare il Form ID → sostituire YOUR_FORM_ID in index.html
+- [ ] Aggiornare numero WhatsApp (cerca 39XXXXXXXXXX)
+- [ ] Aggiungere og-image.png (1200x630px)
+- [ ] Google Search Console + sitemap
+- [ ] Google Business Profile
